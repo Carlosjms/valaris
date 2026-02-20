@@ -6,6 +6,7 @@
 * * *
 > [!infobox]
 >![Vellwick sem fundo.png|center|300](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Pouso%20do%20Corvo/Vellwick%20sem%20fundo.png)
+> * * *
 >![quimera.png|center|300](/img/user/Homepage/z_Assets/Assets/Creatures/quimera.png)
 * * *
 <br>
