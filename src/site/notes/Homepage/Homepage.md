@@ -12,7 +12,7 @@ Esse universo foi criado colaborativamente, com Carlos II tomando o papel de Gam
 
 | | | | | |
 |---|---|---|---|---|
-| <img src="Valaris World Map.jpg" width="150" style="display: block; margin: 0 auto;"> | <img src="Cosmic_Caravan.jpg" width="150" style="display: block; margin: 0 auto;"> | <img src="Landing page with rogerinho and daegallain.jpg" width="150" style="display: block; margin: 0 auto;"> | <img src="The Party.png" width="150" style="display: block; margin: 0 auto;"> | |
+| <img src="Homepage/z_Assets/Locais/Valaris World Map.jpg" width="150" style="display: block; margin: 0 auto;"> | <img src="Cosmic_Caravan.jpg" width="150" style="display: block; margin: 0 auto;"> | <img src="Landing page with rogerinho and daegallain.jpg" width="150" style="display: block; margin: 0 auto;"> | <img src="The Party.png" width="150" style="display: block; margin: 0 auto;"> | |
 | [[Homepage/1. Valaris/1. Valaris\|Valaris]] | [[Homepage/1. Valaris/Calendário/Calendário\|Calendário]] | [[Homepage/3. Diário de campanha/3. Diário de campanha\|Diário de campanha]] | [[Homepage/0. O Grupo/0. O Grupo\|O Grupo]] | |
 * * * 
 
