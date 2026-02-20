@@ -12,7 +12,7 @@ Esse universo foi criado colaborativamente, com Carlos II tomando o papel de Gam
 
 | | | | | |
 |---|---|---|---|---|
-| ![[Valaris World Map.jpg\|cover hsmall]] | ![[Cosmic_Caravan.jpg\|cover hsmall]] | ![[Landing page with rogerinho and daegallain.jpg\|cover hsmall]] | ![[The Party.png\|cover hsmall]] | |
+| ![Valaris World Map.jpg](/img/user/Homepage/z_Assets/Assets/Locais/Valaris%20World%20Map.jpg) | ![Cosmic_Caravan.jpg](/img/user/Homepage/z_Assets/Assets/Images/Cosmic_Caravan.jpg) | ![Landing page with rogerinho and daegallain.jpg](/img/user/Homepage/z_Assets/Assets/Images/Landing%20page%20with%20rogerinho%20and%20daegallain.jpg) | ![The Party.png](/img/user/Homepage/z_Assets/Assets/Images/The%20Party.png) | |
 | [[Homepage/1. Valaris/1. Valaris\|Valaris]] | [[Homepage/1. Valaris/Calendário/Calendário\|Calendário]] | [[Homepage/3. Diário de campanha/3. Diário de campanha\|Diário de campanha]] | [[Homepage/0. O Grupo/0. O Grupo\|O Grupo]] | |
 * * * 
 
@@ -22,6 +22,6 @@ Acompanhe com mais detalhes as pessoas e lugares do reino de Valaris.
 
 | | | | | |
 |---|---|---|---|---|
-| ![[Dorian.jpg.png\|cover hsmall]] | ![[Pouso do Corvo Mapa modificado.png\|cover hsmall]] | ![[Livro das ruínas.png\|cover hsmall]] | ![[A Liberdade - 1a edição.jpg\|cover hsmall]] | |
+| ![Dorian.jpg.png](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Sociedade%20do%20Camarada%20Escarlate/Dorian.jpg.png) | ![Pouso do Corvo Mapa modificado.png](/img/user/Homepage/z_Assets/Assets/Locais/Pouso%20do%20Corvo/Pouso%20do%20Corvo%20Mapa%20modificado.png) | ![Livro das ruínas.png](/img/user/Homepage/z_Assets/Assets/Items/Ru%C3%ADnas%20de%20Althea/Livro%20das%20ru%C3%ADnas.png) | ![A Liberdade - 1a edição.jpg](/img/user/Homepage/z_Assets/Assets/Newspaper/A%20Liberdade%20-%201a%20edi%C3%A7%C3%A3o.jpg) | |
 | [[Homepage/1. Valaris/NPC/NPC\|NPC]] | [[Homepage/1. Valaris/Locais/Locais\|Locais]] | [[Homepage/2. Itens/2. Itens\|Itens]] | [[Homepage/1. Valaris/Jornais/Jornais\|Jornais]] | |
 * * * 
