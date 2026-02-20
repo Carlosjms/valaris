@@ -5,5 +5,10 @@
 
 * * *
 [[Homepage/0. O Grupo/Bilu\|Bilu]], ao se esgueirar pelo interior da casa de [[Homepage/1. Valaris/NPC/Pouso do Corvo/Lyra\|Lyra]], escreveu um falso bilhete, se passando por membro da gangue do [[Homepage/1. Valaris/Organizações/Galho Seco/Galho Seco\|Galho Seco]]. Nele, marcou um encontro com Lyra na noite plena do dia 05 de Abadius de 4710AR.
-<img src="Lyra sf.png" width="300" style="display: block; margin: 0 auto;">
+![Lyra sf.png|center|300](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Pouso%20do%20Corvo/Lyra%20sf.png)
+
+Tabela
+| |
+|---|
+| ![Lyra sf.png](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Pouso%20do%20Corvo/Lyra%20sf.png) |
 * * *
