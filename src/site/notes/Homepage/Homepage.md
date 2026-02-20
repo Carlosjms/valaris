@@ -22,6 +22,6 @@ Acompanhe com mais detalhes as pessoas e lugares do reino de Valaris.
 
 | | | | | |
 |---|---|---|---|---|
-| <img src="z_Assets/Dorian.jpg.png" width="150" style="display: block; margin: 0 auto;"> | <img src="z_Assets/Pouso do Corvo Mapa modificado.png" width="150" style="display: block; margin: 0 auto;"> | <img src="z_Assets/Livro das ruínas.png" width="150" style="display: block; margin: 0 auto;"> | <img src="z_Assets/A Liberdade - 1a edição.jpg" width="150" style="display: block; margin: 0 auto;"> | |
+| <img src="Dorian.jpg.png" width="150" style="display: block; margin: 0 auto;"> | <img src="Pouso do Corvo Mapa modificado.png" width="150" style="display: block; margin: 0 auto;"> | <img src="Livro das ruínas.png" width="150" style="display: block; margin: 0 auto;"> | <img src="A Liberdade - 1a edição.jpg" width="150" style="display: block; margin: 0 auto;"> | |
 | [[Homepage/1. Valaris/NPC/NPC\|NPC]] | [[Homepage/1. Valaris/Locais/Locais\|Locais]] | [[Homepage/2. Itens/2. Itens\|Itens]] | [[Homepage/1. Valaris/Jornais/Jornais\|Jornais]] | |
 * * * 
