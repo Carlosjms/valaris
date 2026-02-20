@@ -147,5 +147,11 @@ Nossa, me lembrei do Véi Pedrinho. Um colega de turma que foi fazer trabalho de
 
 Saímos na estrada levando uma carta ao Seu Pedrinho escrita pelo Douglas. Parece que ele é um dos camaradas. Pior que encontramos um baita empecilho: uma ponte caída e uma criatura bizarra.
 
-Salvamos um pequeno goblin aristocrata. Acho que deve ser parente do Bilu. A lagartixa passou por maus bocados. Ainda bem que conseguimos fugir.
+Parecia uma quimera, mas era uma criatura um pouco diferente. Nunca vi nada igual. Parece que ela ou ele estava atacando uma caravana, só chegamos a tempo de salvar um pequeno goblin "aristocrata" da ponte quebrada.
+
+Tudo que fizemos foi correr, pois essa criatura é muito além das nossas aptidões. Espero que não tenha nenhuma relação com o culto. A lagartixa passou por maus bocados e, de alguma forma, conseguiu convencer a cabeça de dragão. Pena que ainda restam duas. Ainda bem que conseguimos fugir.
+
+Parece que Herval Coral (o goblin) é um nobre barão de Caminho da Serpente. Ele quer que a gente resgate alguns itens para ele, além de levarmos lá daqui uns dias. Como contrapartida, ele cedeu alguns itens mágicos e ouro a nós. Felizmente, o plano mirabolante de Seu Emílio deu certo e o Bilu teve a incrível aptidão em recuperar os pertences da carroça.
+
+Chegamos em Casco Velho, a cidade é muito peculiar. Um mangue com bastante água salgada e uma grande raiz que cobre a cidade. Ao fundo, é possível ver o possível lugar onde o Dorian está cheio de nuvens escuras.
 * * *
