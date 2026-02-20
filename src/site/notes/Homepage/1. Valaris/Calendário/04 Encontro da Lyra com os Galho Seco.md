@@ -10,5 +10,5 @@
 Tabela
 | |
 |---|
-| ![Lyra sf.png](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Pouso%20do%20Corvo/Lyra%20sf.png) |
+| ![Lyra sf.png|cover hsmall](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Pouso%20do%20Corvo/Lyra%20sf.png) |
 * * *
