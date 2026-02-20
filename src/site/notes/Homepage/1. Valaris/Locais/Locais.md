@@ -9,7 +9,7 @@ O reino de [[Homepage/1. Valaris/1. Valaris\|Valaris]] é um local antigo e dive
 * * *
 
 ##  Locais encontrados
-| Local                                                                                 | Título           | Governo | Last Modified                |
+| Local                                                                                 | Título           | Governo | Última modificação           |
 | ------------------------------------------------------------------------------------- | ---------------- | ------- | ---------------------------- |
 | [[Homepage/1. Valaris/Locais/Ruínas de Althea/Ruínas de Althea\|Ruínas de Althea]] | Tumbas de Althea | ND      | 11:08 AM - February 20, 2026 |
 

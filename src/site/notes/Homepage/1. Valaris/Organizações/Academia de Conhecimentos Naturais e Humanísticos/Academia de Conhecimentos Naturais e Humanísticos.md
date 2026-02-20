@@ -13,8 +13,8 @@ A Academia de Conhecimentos Naturais e Humanísticos é a maior instituição ed
 
 * * * 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

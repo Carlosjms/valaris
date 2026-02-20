@@ -65,7 +65,7 @@ Conheça mais sobre Pouso do Corvo em seu mapa!
 * * *
 
 ## Lista de conteúdos
-| Name                                                                                        | Last Modified                |
+| Nome                                                                                        | Última modificação           |
 | ------------------------------------------------------------------------------------------- | ---------------------------- |
 | [[Homepage/1. Valaris/Locais/Pouso do Corvo/Barril Ressonante\|Barril Ressonante]]       | 11:08 AM - February 20, 2026 |
 | [[Homepage/1. Valaris/Locais/Pouso do Corvo/Cabana Afastada\|Cabana Afastada]]           | 11:09 AM - February 20, 2026 |

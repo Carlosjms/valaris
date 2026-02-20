@@ -8,7 +8,7 @@ Jornal feito pela [[Homepage/1. Valaris/Organizações/Sociedade do Camarada Esc
 * * *
 
 ## Lista de conteúdos
-| Name                                                                                            | Folder                                                                  | Last Modified                |
+| Nome                                                                                            | Pasta                                                                   | Última modificação           |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------- |
 | [[Homepage/1. Valaris/Jornais/A Liberdade/1ª Edição - A Liberdade\|1ª Edição - A Liberdade]] | [[Homepage/1. Valaris/Jornais/A Liberdade/A Liberdade\|A Liberdade]] | 11:07 AM - February 20, 2026 |
 

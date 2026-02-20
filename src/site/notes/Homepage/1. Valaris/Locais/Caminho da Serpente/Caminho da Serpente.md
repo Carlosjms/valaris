@@ -63,8 +63,8 @@ Caminho da Serpente é cenário de emboscadas, desaparecimentos convenientes e c
 * * *
 
 ## Lista de conteúdos
-| Name | Last Modified |
-| ---- | ------------- |
+| Nome | Última modificação |
+| ---- | ------------------ |
 
 { .block-language-dataview}
 * * *

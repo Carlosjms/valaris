@@ -11,8 +11,8 @@ A Ordem do Véu é a força governante absoluta de [[Homepage/1. Valaris/1. Vala
 * * *
 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

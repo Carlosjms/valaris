@@ -11,8 +11,8 @@ A **Fênix de Ouro**, uma **Guilda de Aventureiros Sancionada** é a primeira gu
 * * *
 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

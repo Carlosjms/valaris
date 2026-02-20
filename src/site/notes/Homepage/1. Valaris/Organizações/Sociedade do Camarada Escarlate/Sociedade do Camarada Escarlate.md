@@ -11,8 +11,8 @@ A Sociedade do Camarada Escarlate é a principal força de resistência contra a
 * * *
 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

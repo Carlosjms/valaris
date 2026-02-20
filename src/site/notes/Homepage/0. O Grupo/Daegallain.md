@@ -1,55 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/0-o-grupo/daegallain/","title":"Daegallain","tags":["pf2e/creature/type/humanoid","pf2e/creature/type/orc","pf2eMonster","pf2e/creature/level/3"]}
+{"dg-publish":true,"permalink":"/homepage/0-o-grupo/daegallain/"}
 ---
 
+> [!infobox]
+> # Daegallain
+> ![Daegallain sem fundo2.png|cover hsmall](/img/user/Homepage/z_Assets/Assets/Characters/Party/Daegallain%20sem%20fundo2.png)
+> [Show To Players](/img/user/Homepage/z_Assets/Assets/Characters/Party/Daegallain%20sem%20fundo2.png)
+> ###### Ficha
+> Tipo |  Detalhe |
+> ---|---|
+> Classe | Druid |
+> Ancestralidade | Orc
+> Level | 3 |
+> HP | 33 |
+> AC | 20 |
+> Player | Rafael |
+* * *
 
-```statblock
-columns: 2
-forcecolumns: true
-layout: Basic Pathfinder 2e Layout
-token: [Daegallain](/img/user/Homepage/z_Assets/Assets/Characters/Party/Daegallain%20sem%20fundo2.png)
-name: "Daegallain"
-level: "Creature 3"
-rare_03: [[Unique]]
-alignment: ""
-size: "Medium"
-trait_01: [[humanoid]]
-trait_02: [[orc]]
-modifier: 11
-perception:
-  - name: "Perception"
-    desc: "+11; Darkvision"
-languages: "Common, Orcish, Wildsong"
-skills:
-  - name: "Skills"
-    desc: ""
-abilityMods: [3, 1, 1, 0, 4, 0]
-speed: 30 ft
-ac: 20
-armorclass:
-  - name: AC
-    desc: "20; __Fort__ +8, __Ref__ +6, __Will__ +11"
-hp: 39
-health:
-  - name: ""
-  - name: HP
-    desc: "39"
-abilities_top:
-  - name: ""
-  - name: "Items"
-    desc: "Backpack, Bedroll, 10x Chalk, Flint and Steel, Rope, 2x Rations, 5x Torch, Waterskin, Soap, Climbing Kit, Crowbar, Primal Symbol, Greataxe, Breastplate, Platinum Pieces, 2x Gold Pieces, 5x Silver Pieces, Copper Pieces"
-abilities_mid:
-  - name: ""
-attacks:
-  - name: ""
+# Itens
+Backpack, Bedroll, 10x Chalk, Flint and Steel, Rope, 2x Rations, 5x Torch, Waterskin, Soap, Climbing Kit, Crowbar, Primal Symbol, Greataxe, Breastplate, Platinum Pieces, 2x Gold Pieces, 5x Silver Pieces, Copper Pieces
+* * *
 
-  - name: "Druid"
-    desc: "DC 0, attack +0; __2nd __  _Gecko Grip_; __1st __ (2 slots) _Heal_, _Runic Weapon_, _Runic Weapon_, _Tailwind_\n__Cantrips__  __(2nd)__ _Detect Magic_, _Know the Way_, _Light_, _Stabilize_, _Tangle Vine_"
+# Spells
+## 2nd level 
+Gecko Grip
+* * *
 
-  - name: "Primal Focus Tradition"
-    desc: "1 Focus Point, DC 0, attack +0; __2nd __  _Heal Animal_"
-    
-  - name: "Animal companion"
-    desc: [[Kakashi]]
-```
+## 1st level
+Heal, Runic Weapon, Runic Weapon, Tailwind
+
+## Cantrips 
+Detect Magic, Know the Way, Light, Stabilize, Tangle Vine"
+* * *
+
+# Focus Tradition
+1 Focus Point
+
+## 2nd level 
+Heal Animal
+
+# Animal companion
+[[Homepage/0. O Grupo/Animais/Kakashi\|Kakashi]]
 * * *

@@ -3,7 +3,8 @@
 ---
 
 * * *
-![quimera.png|center](/img/user/Homepage/z_Assets/Assets/Creatures/quimera.png)
+> [!infobox]
+> ![quimera.png|center](/img/user/Homepage/z_Assets/Assets/Creatures/quimera.png)
 * * *
 
 

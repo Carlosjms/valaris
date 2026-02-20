@@ -12,8 +12,8 @@ Os Estrelados foram uma civilização única que uniu a conhecimentos élficos g
 * * *
 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

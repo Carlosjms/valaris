@@ -18,8 +18,8 @@ Organização de bardos de toda nação de Valaris. Monitoram os bardos para gar
 * * *
 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

@@ -84,7 +84,7 @@ No teste de ligeireza os jurados avaliam a velocidade e precisão dos ioiôs e d
 * * *
 
 ## Lista de conteúdos
-| Name                                                     | Last Modified                |
+| Nome                                                     | Última modificação           |
 | -------------------------------------------------------- | ---------------------------- |
 | [[Homepage/1. Valaris/Locais/Casco Velho/Mapa\|Mapa]] | 11:08 AM - February 20, 2026 |
 

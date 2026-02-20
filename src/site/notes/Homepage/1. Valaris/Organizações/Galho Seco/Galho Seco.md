@@ -15,8 +15,8 @@ Toda a região de [[Homepage/1. Valaris/Locais/Casco Velho/Casco Velho\|Casco Ve
 * * *
 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

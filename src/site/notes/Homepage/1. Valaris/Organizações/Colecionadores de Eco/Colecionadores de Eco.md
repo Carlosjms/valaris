@@ -11,8 +11,8 @@ Uma organização secreta de caçadores de artefatos que opera nas sombras, cole
 * * *
 
 ## Lista de conteúdos
-| Name | Folder | Last Modified |
-| ---- | ------ | ------------- |
+| Nome | Pasta | Última modificação |
+| ---- | ----- | ------------------ |
 
 { .block-language-dataview}
 * * *

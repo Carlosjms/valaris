@@ -65,8 +65,8 @@ Aurumia possui uma beleza inigualável: palácios de pedra milenares, ruas larga
 * * *
 
 ## Lista de conteúdos
-| Name | Last Modified |
-| ---- | ------------- |
+| Nome | Última modificação |
+| ---- | ------------------ |
 
 { .block-language-dataview}
 * * *

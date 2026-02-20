@@ -10,12 +10,12 @@ Por outro lado, a [[Homepage/1. Valaris/Organizações/Sociedade do Camarada Esc
 * * *
 
 ## Lista de conteúdos
-| Name                                                                                            | Folder                                                                  | Last Modified                |
+| Nome                                                                                            | Pasta                                                                   | Última modificação           |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------- |
 | [[Homepage/1. Valaris/Jornais/A Liberdade/1ª Edição - A Liberdade\|1ª Edição - A Liberdade]] | [[Homepage/1. Valaris/Jornais/A Liberdade/A Liberdade\|A Liberdade]] | 11:07 AM - February 20, 2026 |
 | [[Homepage/1. Valaris/Jornais/A Verdade/1ª Edição - A Verdade\|1ª Edição - A Verdade]]       | [[Homepage/1. Valaris/Jornais/A Verdade/A Verdade\|A Verdade]]       | 11:07 AM - February 20, 2026 |
-| [[Homepage/1. Valaris/Jornais/A Liberdade/A Liberdade\|A Liberdade]]                         | [[Homepage/1. Valaris/Jornais/A Liberdade/A Liberdade\|A Liberdade]] | 11:07 AM - February 20, 2026 |
-| [[Homepage/1. Valaris/Jornais/A Verdade/A Verdade\|A Verdade]]                               | [[Homepage/1. Valaris/Jornais/A Verdade/A Verdade\|A Verdade]]       | 11:07 AM - February 20, 2026 |
+| [[Homepage/1. Valaris/Jornais/A Liberdade/A Liberdade\|A Liberdade]]                         | [[Homepage/1. Valaris/Jornais/A Liberdade/A Liberdade\|A Liberdade]] | 12:14 PM - February 20, 2026 |
+| [[Homepage/1. Valaris/Jornais/A Verdade/A Verdade\|A Verdade]]                               | [[Homepage/1. Valaris/Jornais/A Verdade/A Verdade\|A Verdade]]       | 12:14 PM - February 20, 2026 |
 
 { .block-language-dataview}
 * * *
