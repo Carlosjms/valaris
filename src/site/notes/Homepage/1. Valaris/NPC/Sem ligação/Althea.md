@@ -26,3 +26,4 @@ A Sacerdotisa Althea é a antiga cronista de Valaris, responsável por redigir e
 Seu corpo, entretanto, já não estava mais em seu sarcófago quando o grupo descobriu o local sagrado. O que será que aconteceu com a cronista?
 
 Ela também possui alguma ligação com Elyas, o avô de [[Homepage/0. O Grupo/Emilio Susano\|Emilio Susano]].
+* * *

@@ -24,3 +24,4 @@
 Bagin Corvinal é o anão chefe da família Corvinal, a mais antiga a chegar em Pouso do Corvo. Ele possui uma plantação muito extensa, que conta com controle mágico para a produção de frutos fora do seu período sazonal. Sua fazenda cultiva até mesmo abacaxis no inverno.
 
 O grupo resolveu uma disputa que havia entre o velho fazendeiro e o lenhador [[Homepage/1. Valaris/NPC/Pouso do Corvo/Thom\|Thom]], que agora parecem se entender melhor.
+* * *

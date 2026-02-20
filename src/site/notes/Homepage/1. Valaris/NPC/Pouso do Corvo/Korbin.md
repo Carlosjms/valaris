@@ -22,3 +22,4 @@
 # Korbin
 ## Perfil
 Korbin é o estalajadeiro do [[Homepage/1. Valaris/Locais/Pouso do Corvo/Celeiro Empoleirado\|Celeiro Empoleirado]] em [[Homepage/1. Valaris/Locais/Pouso do Corvo/Pouso do Corvo\|Pouso do Corvo]]. Ele é um humano já com a idade avançada, que anda com o auxílio de uma bengala. Apesar de desejar uma vida pacata, o grupo de aventureiros o convenceu a transformar seu estabelecimento em um lugar com mais músicas e bebidas.
+* * *

@@ -24,3 +24,4 @@
 Maap é um halfling construtor naval, um dos mais habilidosos em toda [[Homepage/1. Valaris/1. Valaris\|Valaris]]. Ele é um dos líderes de [[Homepage/1. Valaris/Locais/Casco Velho/Casco Velho\|Casco Velho]].
 
 Ele é ex-marido da outro líder local, a humana [[Homepage/1. Valaris/NPC/Casco Velho/Lekia\|Lekia]].
+* * *

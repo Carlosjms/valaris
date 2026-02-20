@@ -28,4 +28,4 @@ Ele não gosta das estripulias mágicas que seu filho [[Homepage/1. Valaris/NPC/
 Ele parece estar tendo um caso com [[Homepage/1. Valaris/NPC/Pouso do Corvo/Lyra\|Lyra]].
 
 Ele está [[Homepage/1. Valaris/Calendário/As ferramentas de Vellwick\|produzindo ferramentas para carpintaria]] para o grupo em um valor de 30po.
-
+* * *

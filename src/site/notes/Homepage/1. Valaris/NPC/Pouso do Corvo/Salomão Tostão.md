@@ -24,3 +24,4 @@
 Salomão Tostão é um humano proprietário, em sociedade, da padaria [[Homepage/1. Valaris/Locais/Pouso do Corvo/Pão Tostado\|Pão Tostado]] com a sua esposa [[Homepage/1. Valaris/NPC/Pouso do Corvo/Marta Tostão\|Marta Tostão]]. Ele também possui um filho, [[Homepage/1. Valaris/NPC/Pouso do Corvo/Caleb Tostão\|Caleb Tostão]], a quem está ensinando o seu ofício de padeiro.
 
 Pela conversa dele com a esposa, o grupo captou que eles possuem ideais alinhados à [[Homepage/1. Valaris/Organizações/Ordem do Véu/Ordem do Véu\|Ordem do Véu]].
+* * *

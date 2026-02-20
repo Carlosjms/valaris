@@ -22,3 +22,4 @@
 # Dom Quixote
 ## Perfil
 Dom Quixote é um antigo herói das lendas que [[Homepage/0. O Grupo/Emilio Susano\|Emilio Susano]] adora.
+* * *

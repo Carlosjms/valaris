@@ -26,3 +26,4 @@
 Ele faz parte da equipe dos [[Kobold de Aço\|Kobold de Aço]], que irá participar no campeonato de ioiô. Ele é quem participa do teste de força.
 
 Pai de [[Homepage/1. Valaris/NPC/Casco Velho/Gabiru\|Gabiru]] e marido de [[Homepage/1. Valaris/NPC/Casco Velho/Ukreska\|Ukreska]].
+* * *

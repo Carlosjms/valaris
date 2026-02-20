@@ -28,3 +28,4 @@ O grupo desconfia que ela faça, secretamente, parte do grupo do [[Homepage/1. V
 Ela parece estar tendo um caso com [[Homepage/1. Valaris/NPC/Pouso do Corvo/Vellwick\|Vellwick]].
 
 Ela está desapontada com o grupo por causa da cena que fizeram com a ilusão do Dorian.
+* * *

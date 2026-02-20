@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/homepage/1-valaris/npc/npc/"}
 ---
 
+* * *
+
+Aqui você pode conferir todos os NPCs que já apareceram durante os jogos.
 
 * * *
 
@@ -24,6 +27,7 @@
 | <ul><li>Valaris</li></ul>                                                                                                                                                                                                   | <ul><li>[[Homepage/1. Valaris/NPC/Sem ligação/Althea.md\\|Althea]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                     | <ul><li>Nunca</li></ul>                                                                                                                               |
 
 { .block-language-dataview}
+* * *
 
 
 

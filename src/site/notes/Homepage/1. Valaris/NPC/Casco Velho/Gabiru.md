@@ -25,4 +25,4 @@
 ![[Gabiru.mp4]]
 
 Gabiru é uma criança humana que o grupo encontrou em [[Homepage/1. Valaris/Locais/Casco Velho/Casco Velho\|Casco Velho]], nas barracas do lado de fora da cidade. Ele é filho adotado de [[Homepage/1. Valaris/NPC/Casco Velho/Ukreska\|Ukreska]] e [[Homepage/1. Valaris/NPC/Casco Velho/Vrop\|Vrop]], um casal de kobolds.
-
+* * *

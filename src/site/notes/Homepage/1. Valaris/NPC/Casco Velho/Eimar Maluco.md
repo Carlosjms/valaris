@@ -28,3 +28,4 @@
 Bilu marcou um encontro com o Eimar Maluco dia 05 às 12:00h no estalajadeiro.
 
 Seu último trabalho foi vender algum artefato, que ele pegou no fundo do mar, para os [[Homepage/1. Valaris/Organizações/Colecionadores de Eco/Colecionadores de Eco\|Colecionadores de Eco]].
+* * *

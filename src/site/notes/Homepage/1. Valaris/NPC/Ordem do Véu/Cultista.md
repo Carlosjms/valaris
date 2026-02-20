@@ -22,3 +22,4 @@
 # Cultista
 ## Perfil
 Um cultista padrão da [[Homepage/1. Valaris/Organizações/Ordem do Véu/Ordem do Véu\|Ordem do Véu]] se veste de preto da cabeça aos pés, com um cordão prateado com o símbolo de um olho sendo carregado no peito. Seus rostos são cobertos por uma máscara branca de porcelana com três olhos, coberta por um fino véu de linho.
+* * *

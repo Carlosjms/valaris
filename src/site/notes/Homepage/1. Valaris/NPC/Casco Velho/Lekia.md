@@ -24,3 +24,4 @@
 Uma das líderes de [[Homepage/1. Valaris/Locais/Casco Velho/Casco Velho\|Casco Velho]], Lekia é responsável pela parte de coleta de recursos, principalmente madeira. 
 
 Ela é ex-esposa do outro líder local, o halfling [[Homepage/1. Valaris/NPC/Casco Velho/Maap\|Maap]].
+* * *

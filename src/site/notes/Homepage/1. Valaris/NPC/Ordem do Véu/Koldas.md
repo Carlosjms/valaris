@@ -22,3 +22,4 @@
 # Koldas
 ## Perfil
 Um rosto. Um cabelo cheio de gel. Um olhar de peixe morto. Um sequestro doloroso. Quem é essa pessoa?
+* * *

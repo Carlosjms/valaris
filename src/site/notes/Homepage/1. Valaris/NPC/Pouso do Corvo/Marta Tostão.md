@@ -28,3 +28,4 @@ NewNPC
 Marta Tostão é uma anã confeiteira do [[Homepage/1. Valaris/Locais/Pouso do Corvo/Pão Tostado\|Pão Tostado]]. Ela é esposa de [[Homepage/1. Valaris/NPC/Pouso do Corvo/Salomão Tostão\|Salomão Tostão]] e mãe de [[Homepage/1. Valaris/NPC/Pouso do Corvo/Caleb Tostão\|Caleb Tostão]]. 
 
 Pela conversa dela com o marido, o grupo captou que eles possuem ideais alinhados à [[Homepage/1. Valaris/Organizações/Ordem do Véu/Ordem do Véu\|Ordem do Véu]].
+* * *

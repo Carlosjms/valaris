@@ -26,3 +26,4 @@ Borin é um jovem anão filho de [[Homepage/1. Valaris/NPC/Pouso do Corvo/Vellwi
 Ele sabe alguns truques mágicos, mas sempre é repreendido por seu pai quando os faz.
 
 O grupo lhe pediu para vigiar [[Homepage/1. Valaris/NPC/Pouso do Corvo/Lyra\|Lyra]], vendo se ela irá até o bosque a caminho das [[Homepage/1. Valaris/Locais/Ruínas de Althea/Ruínas de Althea\|Ruínas de Althea]].
+* * *

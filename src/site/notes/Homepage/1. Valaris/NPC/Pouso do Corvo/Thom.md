@@ -24,3 +24,4 @@
 Thom é um humano lenhador já com a idade avançando. Ele é carrancudo, mas justo e com um bom coração. Ele faz esculturas muito detalhadas de madeira e, a seu contragosto, aceitou ensinar a alguns jovens o seu ofício a pedido do grupo.
 
 O grupo resolveu uma disputa que havia entre o velho fazendeiro [[Homepage/1. Valaris/NPC/Pouso do Corvo/Bagin Corvinal\|Bagin Corvinal]] e o lenhador, que agora parecem se entender melhor.
+* * *

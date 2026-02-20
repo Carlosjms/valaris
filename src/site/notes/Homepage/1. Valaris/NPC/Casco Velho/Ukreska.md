@@ -24,3 +24,4 @@
 Ukreska é uma kobold prateada que o grupo encontrou no acampamento do lado de fora de [[Homepage/1. Valaris/Locais/Casco Velho/Casco Velho\|Casco Velho]]. Ela faz parte dos [[Kobold de Aço\|Kobold de Aço]], uma equipe que irá participar do campeonato de ioiô local. Ela é quem participa da prova de agilidade com o ioiô.
 
 Ela é mãe de [[Homepage/1. Valaris/NPC/Casco Velho/Gabiru\|Gabiru]] e esposa de [[Homepage/1. Valaris/NPC/Casco Velho/Vrop\|Vrop]].
+* * *

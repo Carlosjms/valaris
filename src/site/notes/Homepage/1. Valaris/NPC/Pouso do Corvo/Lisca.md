@@ -24,3 +24,4 @@
 Lisca é o goblin proprietário do [[Homepage/1. Valaris/Locais/Pouso do Corvo/Barril Ressonante\|Barril Ressonante]], a badalada taverna de [[Homepage/1. Valaris/Locais/Pouso do Corvo/Pouso do Corvo\|Pouso do Corvo]]. Ele deu um emprego para [[Homepage/0. O Grupo/Deros\|Deros]] por alguns anos.
 
 Lisca que vendeu um kit de arrombamento de portas para [[Homepage/0. O Grupo/Bilu\|Bilu]].
+* * *

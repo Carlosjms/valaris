@@ -24,3 +24,4 @@
 Anya PedraFio é a anciã da família PedraFio, descendente da Sacerdotisa [[Homepage/1. Valaris/NPC/Sem ligação/Althea\|Althea]]. Ela é a mãe de [[Homepage/1. Valaris/NPC/Pouso do Corvo/Kidralyn PedraFio\|Kidralyn PedraFio]].
 
 Apesar de sua idade não tão avançada, Anya aparenta ser muito mais velha do que realmente é. Sua memória já não lhe pertence mais, com apenas cacos do que um dia já pertenceu à sua vida. Sua filha confidenciou ao grupo que ela esteve assim desde o seu nascimento.
+* * *

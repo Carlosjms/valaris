@@ -27,6 +27,7 @@ Herval Coral é um goblin nobre de [[Homepage/1. Valaris/Locais/Caminho da Serpe
 Como recompensa, Herval deu-lhes três itens mágicos: [[Homepage/2. Itens/Herval Coral/Trusty Helmet\|Trusty Helmet]], [[Homepage/2. Itens/Herval Coral/Composer Staff\|Composer Staff]] e [[Homepage/2. Itens/Herval Coral/Spacious Pouch (Type I)\|Spacious Pouch (Type I)]].
 
 O grupo assinou um contrato com ele, garantindo que o nobre será levado em segurança a Caminho da Serpente em até dois meses. O contrato possui uma cláusula que diz que, se o grupo falecer no caminho, ele não deve recursos à família.
+* * *
 
 
 

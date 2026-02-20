@@ -22,3 +22,4 @@
 # Caleb Tostão
 ## Perfil
 Caleb Tostão é um adolescente humano, filho de [[Homepage/1. Valaris/NPC/Pouso do Corvo/Salomão Tostão\|Salomão Tostão]] e [[Homepage/1. Valaris/NPC/Pouso do Corvo/Marta Tostão\|Marta Tostão]]. Ele é aprendiz na padaria [[Homepage/1. Valaris/Locais/Pouso do Corvo/Pão Tostado\|Pão Tostado]], sempre acordando muito cedo para ajudar os pais.
+* * *

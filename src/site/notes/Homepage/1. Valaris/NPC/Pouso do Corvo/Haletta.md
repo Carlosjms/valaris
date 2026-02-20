@@ -22,3 +22,4 @@
 # Haletta
 ## Perfil
 Haletta é uma halfling sacerdotisa de Erastil, o deus cervo que clama pela família, paz e segurança. O grupo a encontrou na celebração do festival de ano novo, onde ela revelou que fazia parte da [Sociedade do Camarada Escarlate]]. Ao mostrarem o holograma do [[Espelho de Althea.png|espelho](/img/user/Homepage/1.%20Valaris/Organiza%C3%A7%C3%B5es/Sociedade%20do%20Camarada%20Escarlate/Sociedade%20do%20Camarada%20Escarlate.md), ela se emocionou. A partir de então, decidiu apoiar o grupo.
+* * *

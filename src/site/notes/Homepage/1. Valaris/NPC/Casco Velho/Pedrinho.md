@@ -26,3 +26,4 @@ Pedrinho é um velho humano pescador, que é filho de quem criou o laço entre o
 Ele é velho e corcunda. Também é o maior campeão do campeonato de ioiô.
 
 Ele é, secretamente, membro da [[Homepage/1. Valaris/Organizações/Sociedade do Camarada Escarlate/Sociedade do Camarada Escarlate\|Sociedade do Camarada Escarlate]].
+* * *
