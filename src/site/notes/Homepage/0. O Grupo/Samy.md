@@ -4,8 +4,8 @@
 
 > [!infobox]
 > # Samy
-> ![Deros sf.png|cover hsmall](/img/user/Homepage/z_Assets/Assets/Characters/Party/Deros%20sf.png)
-> [Show To Players](/img/user/Homepage/z_Assets/Assets/Characters/Party/Deros%20sf.png)
+> ![Sammy2 sem fundo.png|cover hsmall](/img/user/Homepage/z_Assets/Assets/Characters/Party/Sammy2%20sem%20fundo.png)
+> [Show To Players](/img/user/Homepage/z_Assets/Assets/Characters/Party/Sammy2%20sem%20fundo.png)
 > ###### Ficha
 > Tipo |  Detalhe |
 > ---|---|
