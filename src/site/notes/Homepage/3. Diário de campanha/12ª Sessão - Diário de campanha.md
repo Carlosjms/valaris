@@ -14,7 +14,7 @@ Eles começaram a se reunir para planejar como iriam se infiltrar na Fortaleza T
 
 Boa parte do grupo partiu então atrás da carroça, que se movia relativamente mais devagar por causa da jaula que carregava. Eles os alcançaram e engajaram um combate dinâmico, com a carroça fugindo deles. [[Homepage/0. O Grupo/Emilio Susano\|Emilio Susano]] saltou encima da jaula vazia, empurrando um cultista para o chão, que posteriormente foi eliminado. Eles deram cabo dos outros três cultistas com um pouco de trabalho, já que os [[Homepage/1. Valaris/NPC/Ordem do Véu/Kelpie\|kelpies]] continuamente levavam a carroça para longe deles. Eles perceberam que os cultistas não interagiam com eles, sendo muito quietos e ignorando suas falas.
 
-![Estrada.webp](/img/user/Homepage/z_Assets/Assets/Locais/Casco%20Velho/Estrada.webp)
+![Estrada.webp|center](/img/user/Homepage/z_Assets/Assets/Locais/Casco%20Velho/Estrada.webp)
 * * *
 
 O cultista mais poderoso tentou, até o seu último suspiro, levar a carroça de volta para a base. Entretanto, [[Homepage/0. O Grupo/Emilio Susano\|Emilio Susano]] lhe tirou a vida. O grupo entou começou a ocultar a investida que fizeram na estrada, sendo bem sucedidos. Eles enterraram os corpos dos três cultistas mais fracos, mantendo o corpo do último para usar o pergaminho de Talking Corpse que possuem e poder questioná-lo.
