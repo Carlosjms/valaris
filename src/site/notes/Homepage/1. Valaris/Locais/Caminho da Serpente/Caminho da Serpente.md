@@ -42,21 +42,6 @@ Caminho da Serpente fica em um tortuoso terreno que serpenteia entre colinas ár
 Caminho da Serpente é cenário de emboscadas, desaparecimentos convenientes e comércio que não pergunta precedentes. Viajantes com bom senso andam acompanhados e rezam para todo o panteão, prezando por sua segurança. A [[Homepage/1. Valaris/Organizações/Ordem do Véu/Ordem do Véu\|Ordem do Véu]] patrulha, mas só quando lhe convém.
 * * *
 
-### Mapa local
->```zoommap
->image: Homepage/z_Assets/Assets/Locais/Caminho da Serpente/Caminho da Serpente mapa modificado.jpg
->minZoom: 0.09
->maxZoom: 1.7
->height: 760px
->width: 100%
->resizable: true
->resizeHandle: native     
->render: canvas           
->align: right             
->```
-[Caminho da serpente mapa modificado.jpg](/img/user/Homepage/z_Assets/Assets/Locais/Caminho%20da%20Serpente/Caminho%20da%20serpente%20mapa%20modificado.jpg)
-* * *
-
 ### Imagem local
 ![Caminho da Serpente.jpg|Caminho da Serpente](/img/user/Homepage/z_Assets/Assets/Locais/Caminho%20da%20Serpente/Caminho%20da%20Serpente.jpg)
 [abrir em nova guia](/img/user/Homepage/z_Assets/Assets/Locais/Caminho%20da%20Serpente/Caminho%20da%20Serpente.jpg)

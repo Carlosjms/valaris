@@ -11,7 +11,7 @@
 **Bulk** L; **Size** med
 **Usage** wornheadwear
 
-You keep yourself protected from incoming projectiles with this sturdy steel helmet, painted brown.
+With the [Trusty Helmet](https://2e.aonprd.com/Equipment.aspx?ID=3983) you keep yourself protected from incoming projectiles with this sturdy steel helmet, painted brown.
 
 **Activate—Block Manipulation** `pf2:r` (concentrate)
 

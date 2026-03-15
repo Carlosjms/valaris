@@ -44,21 +44,6 @@ O local tem cerca de 150 habitantes. A maioria da população local é humana e 
 Conheça mais sobre Pouso do Corvo em seu mapa!
 * * *
 
-### Mapa local
->```zoommap
->image: Homepage/z_Assets/Assets/Locais/Pouso do Corvo/Pouso do Corvo Mapa modificado.png
->minZoom: 0.18
->maxZoom: 1.0
->height: 760px
->width: 100%
->resizable: true
->resizeHandle: native     
->render: canvas           
->align: right             
->```
-[[Pouso do Corvo Mapa modificado.jpg\|abrir em nova guia]]
-* * *
-
 ### Imagem local
 ![Pouso do Corvo.jpg|Pouso do Corvo](/img/user/Homepage/z_Assets/Assets/Locais/Pouso%20do%20Corvo/Pouso%20do%20Corvo.jpg)
 [abrir em nova guia](/img/user/Homepage/z_Assets/Assets/Locais/Pouso%20do%20Corvo/Pouso%20do%20Corvo.jpg)

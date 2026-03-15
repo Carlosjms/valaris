@@ -15,7 +15,7 @@
 
 
 
-A _composer staff_ is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to Performance checks made with it.
+A _[composer staff](https://2e.aonprd.com/Equipment.aspx?ID=2249)_ is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to Performance checks made with it.
 
 * * *
 

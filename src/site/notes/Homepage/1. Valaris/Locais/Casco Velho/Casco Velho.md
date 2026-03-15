@@ -63,30 +63,14 @@ No teste de ligeireza os jurados avaliam a velocidade e precisão dos ioiôs e d
 **Mecânica**: Um teste de Reflexos/Acrobatics para derrubar itens em um palco.
 * * *
 
-### Mapa local
->```zoommap
->image: Homepage/z_Assets/Assets/Locais/Casco Velho/Cidade.jpg
->minZoom: 0.77
->maxZoom: 2.5
->height: 760px
->width: 100%
->resizable: true
->resizeHandle: native     
->render: canvas           
->align: right             
->```
-[abrir em nova guia](/img/user/Homepage/z_Assets/Assets/Locais/Casco%20Velho/Cidade.jpg)
-* * *
-
 ### Imagem local
 ![Casco Velho.jpg|Casco Velho](/img/user/Homepage/z_Assets/Assets/Locais/Casco%20Velho/Casco%20Velho.jpg)
 [abrir em nova guia](/img/user/Homepage/z_Assets/Assets/Locais/Casco%20Velho/Casco%20Velho.jpg)
 * * *
 
 ## Lista de conteúdos
-| Nome                                                     | Última modificação           |
-| -------------------------------------------------------- | ---------------------------- |
-| [[Homepage/1. Valaris/Locais/Casco Velho/Mapa\|Mapa]] | 11:08 AM - February 20, 2026 |
+| Nome | Última modificação |
+| ---- | ------------------ |
 
 { .block-language-dataview}
 * * *

@@ -44,21 +44,6 @@ Aurumia possui uma beleza inigualável: palácios de pedra milenares, ruas larga
 É em Aurumia que a [[Homepage/1. Valaris/Organizações/Sociedade do Camarada Escarlate/Sociedade do Camarada Escarlate\|Sociedade do Camarada Escarlate]] arrisca a vida diariamente, nos becos e vielas, para lembrar que ouro não compra silêncio e subserviência.
 * * *
 
-### Mapa local
->```zoommap
->image: Homepage/z_Assets/Assets/Locais/Aurumia/Aurumia mapa.jpg
->minZoom: 0.09
->maxZoom: 2.5
->height: 760px
->width: 100%
->resizable: true
->resizeHandle: native     
->render: canvas           
->align: right             
->```
-[abrir em nova guia](/img/user/Homepage/z_Assets/Assets/Locais/Aurumia/Aurumia%20mapa.jpg)
-* * *
-
 ### Imagem local
 ![Aurumia - imagem.jpg|Aurumia](/img/user/Homepage/z_Assets/Assets/Locais/Aurumia/Aurumia%20-%20imagem.jpg)
 [abrir em nova guia](/img/user/Homepage/z_Assets/Assets/Locais/Aurumia/Aurumia%20-%20imagem.jpg)

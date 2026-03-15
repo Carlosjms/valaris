@@ -11,7 +11,7 @@
 **Bulk** 1; **Size** med
 **Usage** held-in-two-hands
 
-Though it appears to be a cloth bag decorated with panels of richly colored silk or stylish embroidery, a _spacious pouch_ opens into a magical space larger than its outside dimensions. The Bulk held inside the bag doesn't change the Bulk of the _spacious pouch_ itself. The amount of Bulk the bag's extradimensional space can hold depends on its type.
+Though it appears to be a cloth bag decorated with panels of richly colored silk or stylish embroidery, a _spacious pouch_ opens into a magical space larger than its outside dimensions. The Bulk held inside the bag doesn't change the Bulk of the _[spacious pouch](https://2e.aonprd.com/Equipment.aspx?ID=3032)_ itself. The amount of Bulk the bag's extradimensional space can hold depends on its type.
 
 You can Interact with the _spacious pouch_ to stow items in it or remove them just like a mundane sack. Though the bag can hold a great amount of material, an object still needs to be able to fit through the opening of the sack to be stored inside.
 
