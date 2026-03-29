@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/homepage/1-valaris/npc/ordem-do-veu/cultista/"}
 ---
 
-> [!infobox]
+>[!infobox]
 > # Cultista
 > ![Cultista padrão sf.png|cover hsmall](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Ordem%20do%20V%C3%A9u/Cultista%20padr%C3%A3o%20sf.png)
 > [Show To Players](/img/user/Homepage/z_Assets/Assets/Characters/NPCs/Ordem%20do%20V%C3%A9u/Cultista%20padr%C3%A3o%20sf.png)
